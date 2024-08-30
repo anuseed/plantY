@@ -5,17 +5,34 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-
 .navbar {
   background-color: rgb(255, 255, 255);
   height: 280px;
   border-radius: 8px;
+  box-shadow: 10px 10px 10px #d1e9a4;
+  margin: 40px;
 }
 .logo {
   position: absolute;
-  left: 20px;
-  top: 20px;
-
+  left: 60px;
+  top: 60px;
   width: 250px;
   height: 250px;
+  border-radius: 50%;
+  box-shadow: 0 0 20px 2px #025516;
+}
+ul {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 100px;
+  padding-left: 100px;
+  list-style: none;
+}
+
+.navbutton {
+  background-color: aliceblue;
+  width: 200px;
+  height: 50px;
 }
