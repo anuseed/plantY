@@ -1,0 +1,21 @@
+body {
+  background-image: url(Images/green-background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.navbar {
+  background-color: rgb(255, 255, 255);
+  height: 280px;
+  border-radius: 8px;
+}
+.logo {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+
+  width: 250px;
+  height: 250px;
+}
