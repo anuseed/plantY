@@ -1,7 +1,9 @@
+/*from SpaceY website inspect code*/
 html {
   scroll-behavior: smooth;
 }
 
+/*tutorial brocode https://www.youtube.com/watch?v=_oFWg_NlKdo */
 body {
   background-image: url(Images/green-background.jpg);
   background-repeat: no-repeat;
@@ -15,6 +17,7 @@ body {
   src: url("fonts/Bagnard.otf") format("opentype");
 }
 
+/*logo generated on logo.com*/
 .logo {
   position: absolute;
   left: 40px;
@@ -24,6 +27,7 @@ body {
   border-radius: 50%;
   box-shadow: 0 0 20px 2px #025516;
 }
+
 .navbar {
   background-color: transparent;
   height: 300px;
