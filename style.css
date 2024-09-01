@@ -11,7 +11,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-
+/*https://stackoverflow.com/questions/3245141/using-otf-fonts-on-web-browsers*/
 @font-face {
   font-family: Bagnard;
   src: url("fonts/Bagnard.otf") format("opentype");
@@ -101,7 +101,7 @@ p {
   justify-content: center;
   align-items: center;
 }
-
+/* images from https://www.sotogardens.com/collections/indoor-plants/products/rubber-plant*/
 img {
   height: 250px;
   width: 200px;
