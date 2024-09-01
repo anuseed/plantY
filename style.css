@@ -2,19 +2,20 @@
 html {
   scroll-behavior: smooth;
 }
-
+/* image credit Pexels Aditya Aiyar */
 /*tutorial brocode https://www.youtube.com/watch?v=_oFWg_NlKdo */
 body {
-  background-image: url(Images/green-background.jpg);
+  background-image: url(Images/pexels-aditya-aiyar-615049-1407305.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
 }
+
 /*https://stackoverflow.com/questions/3245141/using-otf-fonts-on-web-browsers*/
 @font-face {
   font-family: Bagnard;
-  src: url("fonts/Bagnard.otf") format("opentype");
+  src: url("Bagnard.otf") format("opentype");
 }
 
 /*logo generated on logo.com*/

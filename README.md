@@ -9,4 +9,4 @@ Adding sections after the fact also resulted in lots of syntax issues which took
 I attributed to sources in my html and css with comments, there may be a better way to do so, but worked for me this time.
 For the social media icons I followed this tutorial https://www.w3schools.com/howto/howto_css_social_media_buttons.asp and added the code they suggested to the html and css.
 Overall I am pretty happy with the final result, I ended up not adding music or adding a back to the top button (this was also because I had the nav bar scroll down with you so didn't seem necessary).
-I wanted to try to learn markdown to type this but I think this will have to do for now.
+I wanted to try to learn markdown to type this but I think this will have to do for now.s
